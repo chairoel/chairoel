@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chairoel&label=Profile%20views&color=0e75b6&style=flat" alt="chairoel" /> </p>
 
+- 🌱 I’m Work using **React Native** too
+
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Android, Internet of Things**
